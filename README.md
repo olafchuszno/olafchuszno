@@ -4,8 +4,7 @@
  <p align="center">🚀 I’m open for collaboration and work opportunities! 🚀</p>
 </div>
 
-<br> <br>
-
+<br>
 
 Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
 
