@@ -10,14 +10,11 @@
 <div>
  <strong>
   <p align="center">🚀 I’m open for collaboration and work opportunities! 🚀</p>
-  <p align="center">Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at <a href="mailto:chuszno.dev@gmail.com>chuszno.dev@gmail.com</a>.</p>
+  <p align="center">Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at <a href="mailto:chuszno.dev@gmail.com">chuszno.dev@gmail.com</a>.</p>
  </strong>
 </div>
 <br>
-
- <!--  <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" /> -->
-
- <!-- ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+<br>
 
 ### **🔧 Tech Stack: **
 
@@ -41,7 +38,7 @@
 <br>
 
 ### **💻 Projects **
-<i>Name is for the repo, photo redirects to the demo</i>
+<div><p align="center"><i>Project name is a link to repo, and the photo redirects you to a demo:)</i></p></div>
 
 | [MyBike](https://github.com/olafchuszno/layout_miami) | [ToDoApp](https://github.com/olafchuszno/react_todo-app-with-api) | [NiceGadgets](https://github.com/olafchuszno/react_phone-catalog) |
 | ----------- | ----------- | ----------- |
@@ -59,4 +56,5 @@
 
 ![OlafChuszno GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&show_icons=true&theme=tokyonight) 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olafchuszno&layout=donut&theme=tokyonight) -->
-
+ <!--  <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" /> -->
+ <!-- ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
