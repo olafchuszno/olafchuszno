@@ -2,7 +2,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&bg_color=4D89D6)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olafchuszno&repo=react_phone-catalog)](https://github.com/olafchuszno/react_phone-catalog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olafchuszno&repo=react_phone-catalog)]([https://github.com/olafchuszno/react_phone-catalog](https://github.com/olafchuszno/react_phone-catalog/tree/develop))
 
 🎉 Welcome to my GitHub profile! 🎉
 
