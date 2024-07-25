@@ -1,6 +1,6 @@
 ## <h1 style="text-align: center"> Hi there 👋 <a href="mailto:chuszno.dev@gmail.com">💬 Let's Connect!</a> </h1>
 
-<p style="text-align: center">🚀 I’m open for collaboration and work opportunities! 🚀</p>
+<p style="text-align: 'center'">🚀 I’m open for collaboration and work opportunities! 🚀</p>
 
 Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
 
