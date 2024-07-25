@@ -43,7 +43,7 @@ Let's create something amazing together! Feel free to reach out or connect with 
 | ----------- | ----------- | ----------- |
 | [![MyBike](./images/miami.jpg)](https://olafchuszno.github.io/layout_miami/) | [![ToDoApp](./images/todo.jpg)](https://olafchuszno.github.io/react_todo-app-with-api/) | [![NiceGadgets](./images/phone-catalog.jpg)](https://olafchuszno.github.io/react_phone-catalog/) |
 
-
+<embed src="https://www.youtube.com/watch?v=snYu2JUqSWs&pp=ygUJMTBzIHZpZGVv">
 
 ## **📜 My Stats**
 <br />
