@@ -1,27 +1,34 @@
-## Hi there 👋
+##Hi there 👋
 
-Passionate Full-Stack Developer 2 years of learning and over 500 hours of coding experience in JavaScript TypeScript, ReactJS Node, Express HTML5, CSS3. Currently interning at Mate Academy - designing responsive web applications and writing clean, maintainable code. Advanced English proficiency (C1) with strong collaboration skills gained from working in diverse environments. Proven ability to adapt quickly, manage projects, and solve problems efficiently.
+🎉 Welcome to my GitHub profile! 🎉
 
-My Skills and technologies I've mastered:
-* Typescript, JavaScript (ES2015–2019), React, Redux, Vue.js
-* HTML5, CSS3, Sass (SCSS), BEM, Bootstrap, Tailwind, Bulma, Material UI
-* Node, Express, PHP, Laravel, basic understanding of OOP and C language
-* Fetch, REST API, Web sockets, SQL, Event loop
-* Git/GitHub, VS Code, Chrome Developer Tools (incl. React), NPM, Webpack, Trello
-* Knowledge of SDLC, Waterfall, Agile concepts (Scrum, Kanban) 
+## I'm a passionate Full-Stack Developer based in Poland with 2 years of learning and over 500 hours of coding experience in JavaScript, TypeScript, ReactJS, Node.js, and more. Currently, I'm interning at Mate Academy where I design responsive web applications and write clean, maintainable code.
 
+🔧 My Tech Stack:
 
-<!--
-**olafchuszno/olafchuszno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages & Frameworks I've mastered:
 
-Here are some ideas to get you started:
+🌟 JavaScript (ES2015–2019), TypeScript
+⚛️ React, Redux, Vue.js
+🌐 HTML5, CSS3, Sass (SCSS)
+🅱️ Bootstrap, Tailwind, Bulma, Material UI
+🚀 Node.js, Express, PHP, Laravel
+💻 Basic understanding of OOP and C language
+Tools & Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Fetch, REST API, Web Sockets
+🗃️ SQL, Event Loop
+🛠️ Git/GitHub, VS Code, Chrome Developer Tools (incl. React)
+📦 NPM, Webpack
+📋 Trello
+Development Methodologies:
+
+📚 Knowledge of SDLC
+🌊 Waterfall, Agile concepts (Scrum, Kanban)
+🌍 I have advanced English proficiency (C1) and strong collaboration skills gained from working in diverse environments. I’m proven to adapt quickly, manage projects efficiently, and solve problems effectively.
+
+🚀 I’m open for collaboration and work opportunities! 🚀
+
+Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at your-email@example.com.
+
+💬 Let's Connect!
