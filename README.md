@@ -1,14 +1,4 @@
-<h1 align="center"> Hi there 👋 <a href="mailto:chuszno.dev@gmail.com"> Let's Connect! 💬</a> </h1>
-
-<div>
- <p align="center">🚀 I’m open for collaboration and work opportunities! 🚀</p>
- Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
-</div>
-<br>
-
- <!--  <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" /> -->
-
- <!-- ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+<h1 align="center"> Hi there 👋 <a href="www.linkedin.com/in/olaf-chuszno"> Let's Connect! 💬</a> </h1>
 
 <h2 align="center">
  I'm a passionate Full-Stack Developer with two years of programming experience in Poland. I've finished a Full-Stack course at Mate Academy and do freelance work, designing both Front-end and Back-end applications.
@@ -16,6 +6,18 @@
 </h2>
 
 <br>
+
+<div>
+ <strong>
+  <p align="center">🚀 I’m open for collaboration and work opportunities! 🚀</p>
+  <p align="center">Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at <a href="mailto:chuszno.dev@gmail.com>chuszno.dev@gmail.com</a>.</p>
+ </strong>
+</div>
+<br>
+
+ <!--  <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" /> -->
+
+ <!-- ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 ### **🔧 Tech Stack: **
 
