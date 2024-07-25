@@ -1,10 +1,8 @@
 ##Hi there 👋
 
-![Gif Olaf]
-(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV4N2Q0NjU3eTNoanF3ZWxsYWZjY3JwbHh4NHo0OXZrOHM3MGtubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPqYp2tj61XlBhlPbH/giphy.gif)
+![Gif Olaf](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV4N2Q0NjU3eTNoanF3ZWxsYWZjY3JwbHh4NHo0OXZrOHM3MGtubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPqYp2tj61XlBhlPbH/giphy.gif)
 
-![Logo]
-(https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif)
+![Logo](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif)
 
 🎉 Welcome to my GitHub profile! 🎉
 
