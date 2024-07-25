@@ -36,7 +36,8 @@
 
 Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
 
-### **💻 Projects**
+### **💻 My Projects **
+<i>Name is for the repo, photo redirects to the demo</i>
 
 | [MyBike](https://github.com/olafchuszno/layout_miami) | [ToDoApp](https://github.com/olafchuszno/react_todo-app-with-api) | [NiceGadgets](https://github.com/olafchuszno/react_phone-catalog) |
 | ----------- | ----------- | ----------- |
