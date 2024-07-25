@@ -8,10 +8,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olafchuszno&repo=react_phone-catalog)](https://github.com/olafchuszno/react_phone-catalog/tree/develop)
-
 🎉 Welcome to my GitHub profile! 🎉
 
 --- I'm a passionate Full-Stack Developer based in Poland with 2 years of learning with multiple front-end and back-end finished projects. Currently, I'm interning at Mate Academy where I design responsive web applications and write clean, maintainable code. ---
