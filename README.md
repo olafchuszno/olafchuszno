@@ -1,4 +1,5 @@
 ## Hi there 👋
+<div style="display: 'flex'">
  ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -8,12 +9,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-🎉 Welcome to my GitHub profile! 🎉
-
---- I'm a passionate Full-Stack Developer based in Poland with 2 years of learning with multiple front-end and back-end finished projects. Currently, I'm interning at Mate Academy where I design responsive web applications and write clean, maintainable code. ---
-
-🔧 My Tech Stack:
-
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -22,6 +17,15 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+🎉 Welcome to my GitHub profile! 🎉
+
+--- I'm a passionate Full-Stack Developer based in Poland with 2 years of learning with multiple front-end and back-end finished projects. Currently, I'm interning at Mate Academy where I design responsive web applications and write clean, maintainable code. ---
+
+🔧 My Tech Stack:
+
 
 
 
