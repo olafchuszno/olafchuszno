@@ -30,11 +30,13 @@ Development Methodologies:
 📚 Knowledge of SDLC
 🌊 Waterfall, Agile concepts (Scrum, Kanban)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno)](https://github.com/anuraghazra/github-readme-stats)
+
 🌍 I have advanced English proficiency (C1) and strong collaboration skills gained from working in diverse environments. I’m proven to adapt quickly, manage projects efficiently, and solve problems effectively.
 
 🚀 I’m open for collaboration and work opportunities! 🚀
 
-Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at your-email@example.com.
+Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
 
 💬 Let's Connect!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno)](https://github.com/anuraghazra/github-readme-stats)
