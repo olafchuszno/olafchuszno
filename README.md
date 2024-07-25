@@ -1,5 +1,9 @@
 ## <h1 style="text-align: center"> Hi there 👋 <a href="mailto:chuszno.dev@gmail.com">💬 Let's Connect!</a> </h1>
 
+🚀 I’m open for collaboration and work opportunities! 🚀
+
+Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
+
  <!--  <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" /> -->
 
  <!-- ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
@@ -28,12 +32,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-🌍 I have advanced English proficiency (C1) and strong collaboration skills gained from working in diverse environments. I’m proven to adapt quickly, manage projects efficiently, and solve problems effectively.
-
-🚀 I’m open for collaboration and work opportunities! 🚀
-
-Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
 
 ### **💻 My Projects **
 <i>Name is for the repo, photo redirects to the demo</i>
