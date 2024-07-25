@@ -2,7 +2,7 @@
 
 🎉 Welcome to my GitHub profile! 🎉
 
-## I'm a passionate Full-Stack Developer based in Poland with 2 years of learning and over 500 hours of coding experience in JavaScript, TypeScript, ReactJS, Node.js, and more. Currently, I'm interning at Mate Academy where I design responsive web applications and write clean, maintainable code.
+## I'm a passionate Full-Stack Developer based in Poland with 2 years of learning with multiple front-end and back-end finished projects. Currently, I'm interning at Mate Academy where I design responsive web applications and write clean, maintainable code.
 
 🔧 My Tech Stack:
 
