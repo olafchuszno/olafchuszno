@@ -42,7 +42,7 @@ Let's create something amazing together! Feel free to reach out or connect with 
 
 | [MyBike](https://github.com/olafchuszno/layout_miami) | [ToDoApp](https://github.com/olafchuszno/react_todo-app-with-api) | [NiceGadgets](https://github.com/olafchuszno/react_phone-catalog) |
 | ----------- | ----------- | ----------- |
-| [![MyBike](./images/miami.jpg)]((https://olafchuszno.github.io/layout_miami/)) | [![ToDoApp](./images/todo.jpg)]((https://olafchuszno.github.io/react_todo-app-with-api/)) | [![NiceGadgets](./images/phone-catalog.jpg)](https://olafchuszno.github.io/react_phone-catalog/) |
+| [![MyBike](./images/miami.jpg)](https://olafchuszno.github.io/layout_miami/) | [![ToDoApp](./images/todo.jpg)](https://olafchuszno.github.io/react_todo-app-with-api/) | [![NiceGadgets](./images/phone-catalog.jpg)](https://olafchuszno.github.io/react_phone-catalog/) |
 
 
 
