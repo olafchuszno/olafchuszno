@@ -1,4 +1,4 @@
-## <h1 style="text-align: center"> Hi there 👋 </h1>
+## <h1 style="text-align: center"> Hi there 👋 <a href="mailto:chuszno.dev@gmail.com">💬 Let's Connect!</a> </h1>
 
 <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" />
 
@@ -35,8 +35,6 @@
 🚀 I’m open for collaboration and work opportunities! 🚀
 
 Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
-
-💬 Let's Connect!
 
 ### **💻 Projects**
 
