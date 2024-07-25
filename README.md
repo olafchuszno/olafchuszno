@@ -51,4 +51,4 @@ Let's create something amazing together! Feel free to reach out or connect with 
 
 💬 Let's Connect!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
