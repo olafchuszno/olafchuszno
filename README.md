@@ -2,11 +2,9 @@
 
 <div>
  <p align="center">🚀 I’m open for collaboration and work opportunities! 🚀</p>
+ Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
 </div>
-
 <br>
-
-Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
 
  <!--  <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" /> -->
 
@@ -14,11 +12,12 @@ Let's create something amazing together! Feel free to reach out or connect with 
 
 <h2 align="center">
  I'm a passionate Full-Stack Developer with two years of programming experience in Poland. I've finished a Full-Stack course at Mate Academy and do freelance work, designing both Front-end and Back-end applications.
+ <br>
 </h2>
 
-Let me tell you a little more about my skills
+<br>
 
-🔧 My Tech Stack:
+### **🔧 Tech Stack: **
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -37,8 +36,9 @@ Let me tell you a little more about my skills
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<br>
 
-### **💻 My Projects **
+### **💻 Projects **
 <i>Name is for the repo, photo redirects to the demo</i>
 
 | [MyBike](https://github.com/olafchuszno/layout_miami) | [ToDoApp](https://github.com/olafchuszno/react_todo-app-with-api) | [NiceGadgets](https://github.com/olafchuszno/react_phone-catalog) |
