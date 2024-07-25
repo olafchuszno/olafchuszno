@@ -3,6 +3,14 @@
  <!--  <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" /> -->
 
  <!-- ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+
+
+🎉 Welcome to my GitHub profile! 🎉
+
+--- I'm a passionate Full-Stack Developer based in Poland with 2 years of learning with multiple front-end and back-end finished projects. Currently, I'm interning at Mate Academy where I design responsive web applications and write clean, maintainable code. ---
+
+🔧 My Tech Stack:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,15 +27,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-🎉 Welcome to my GitHub profile! 🎉
-
---- I'm a passionate Full-Stack Developer based in Poland with 2 years of learning with multiple front-end and back-end finished projects. Currently, I'm interning at Mate Academy where I design responsive web applications and write clean, maintainable code. ---
-
-🔧 My Tech Stack:
-
-
 
 
 🌍 I have advanced English proficiency (C1) and strong collaboration skills gained from working in diverse environments. I’m proven to adapt quickly, manage projects efficiently, and solve problems effectively.
