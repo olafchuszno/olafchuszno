@@ -49,5 +49,5 @@ Let's create something amazing together! Feel free to reach out or connect with 
 <br />
 
 ![OlafChuszno GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olafchuszno&layout=donut&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olafchuszno&layout=donut&theme=tokyonight) -->
 
