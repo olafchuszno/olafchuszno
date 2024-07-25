@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Logo](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&bg_color=55BFDB)](https://github.com/anuraghazra/github-readme-stats)
+![Logo](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&bg_color=255561)](https://github.com/anuraghazra/github-readme-stats)
 
 🎉 Welcome to my GitHub profile! 🎉
 
