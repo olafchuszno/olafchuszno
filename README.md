@@ -45,10 +45,10 @@ Let's create something amazing together! Feel free to reach out or connect with 
 
 ### <h2> **💻 Or would you rather play a game I designed? **</h2>
 
-| [2048 Game](https://github.com/olafchuszno/js_2048_game/tree/develop) |
-| ----------- |
-| <img width="50px" height="100px" href="https://olafchuszno.github.io/js_2048_game/" src="./images/2048.jpg"> | 
-[![2048 Game](./images/2048.jpg)](https://olafchuszno.github.io/js_2048_game/)
+<div style="display: flex">
+ <a href="https://github.com/olafchuszno/js_2048_game/tree/develop">2048 Game repo</a>
+ <img height="80px" src="./images/2048.jpg" href="https://olafchuszno.github.io/js_2048_game/" />
+</div>
 
 ## **📜 My Stats**
 <br />
