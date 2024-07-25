@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-![Logo](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats) ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats) ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,5 +51,7 @@ Development Methodologies:
 🚀 I’m open for collaboration and work opportunities! 🚀
 
 Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
+
+<!-- ![Logo](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif) -->
 
 💬 Let's Connect!
