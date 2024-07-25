@@ -43,12 +43,11 @@ Let's create something amazing together! Feel free to reach out or connect with 
 | ----------- | ----------- | ----------- |
 | [![MyBike](./images/miami.jpg)](https://olafchuszno.github.io/layout_miami/) | [![ToDoApp](./images/todo.jpg)](https://olafchuszno.github.io/react_todo-app-with-api/) | [![NiceGadgets](./images/phone-catalog.jpg)](https://olafchuszno.github.io/react_phone-catalog/) |
 
-<embed type="video/webm" src="[video.mp4](https://www.youtube.com/watch?v=snYu2JUqSWs&pp=ygUJMTBzIHZpZGVv)" width="400" height="300">
+### <h2> **💻 Or would you rather play a game I designed? **</h2>
 
-
-https://www.youtube.com/watch?v=snYu2JUqSWs&pp=ygUJMTBzIHZpZGVv
-
-https://www.youtube.com/watch?v=snYu2JUqSWs&pp=ygUJMTBzIHZpZGVv
+| [2048 Game](https://github.com/olafchuszno/js_2048_game/tree/develop) |
+| ----------- |
+| [![MyBike](./images/2048.jpg)](https://olafchuszno.github.io/js_2048_game/) | 
 
 ## **📜 My Stats**
 <br />
