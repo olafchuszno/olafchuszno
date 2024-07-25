@@ -1,6 +1,11 @@
-## <h1 style="text-align: center"> Hi there 👋 <a href="mailto:chuszno.dev@gmail.com">💬 Let's Connect!</a> </h1>
+<h1 align="center"> Hi there 👋 <a href="mailto:chuszno.dev@gmail.com"> Let's Connect! 💬</a> </h1>
 
-<p style="text-align: 'center'">🚀 I’m open for collaboration and work opportunities! 🚀</p>
+<div>
+ <p align="center">🚀 I’m open for collaboration and work opportunities! 🚀</p>
+</div>
+
+<br> <br>
+
 
 Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at chuszno.dev@gmail.com.
 
@@ -8,10 +13,11 @@ Let's create something amazing together! Feel free to reach out or connect with 
 
  <!-- ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
+<h2 align="center">
+ I'm a passionate Full-Stack Developer with two years of programming experience in Poland. I've finished a Full-Stack course at Mate Academy and do freelance work, designing both Front-end and Back-end applications.
+</h2>
 
-🎉 Welcome to my GitHub profile! 🎉
-
---- I'm a passionate Full-Stack Developer based in Poland with 2 years of learning with multiple front-end and back-end finished projects. Currently, I'm interning at Mate Academy where I design responsive web applications and write clean, maintainable code. ---
+Let me tell you a little more about my skills
 
 🔧 My Tech Stack:
 
