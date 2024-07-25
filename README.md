@@ -47,7 +47,7 @@ Let's create something amazing together! Feel free to reach out or connect with 
 
 | [2048 Game](https://github.com/olafchuszno/js_2048_game/tree/develop) |
 | ----------- |
-| [![MyBike](./images/2048.jpg)](https://olafchuszno.github.io/js_2048_game/) | 
+| [![2048 Game](./images/2048.jpg)](https://olafchuszno.github.io/js_2048_game/) | 
 
 ## **📜 My Stats**
 <br />
