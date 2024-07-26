@@ -44,17 +44,30 @@
 | ----------- | ----------- | ----------- |
 | [![MyBike](./images/miami.jpg)](https://olafchuszno.github.io/layout_miami/) | [![ToDoApp](./images/todo.jpg)](https://olafchuszno.github.io/react_todo-app-with-api/) | [![NiceGadgets](./images/phone-catalog.jpg)](https://olafchuszno.github.io/react_phone-catalog/) |
 
-### <h2> **💻 Or would you rather play a game I designed? **</h2>
+### <h2> **💻 Or would you rather play a game I designed? **</h2> [2048 Game repo](https://github.com/olafchuszno/js_2048_game/tree/develop)
 
-<div style="display: flex">
- <a href="https://github.com/olafchuszno/js_2048_game/tree/develop">2048 Game repo</a>
- <img height="80px" src="./images/2048.jpg" href="[https://olafchuszno.github.io/js_2048_game/](https://olafchuszno.github.io/js_2048_game/)" />
-</div>
+<table>
+ <tr>
+  <td>
+   <a href="https://olafchuszno.github.io/js_2048_game/">
+    <img height="300px" src="./images/2048.jpg" alt="2048 Game" />
+   </a>
+  </td>
+  <td>
+   <img height="300px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNzOHFsbHZkamJ3eDlicTBzZmxicmVjNnI1MjN3dGdvNzJwdzdrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k5PBzy5e7mLogC2XXu/giphy.webp" alt="Fun GIF" />
+  </td>
+ </tr>
+</table>
 
 ## **📜 My Stats**
 <br />
 
-![OlafChuszno GitHub stats](https://github-readme-stats.vercel.app/api?username=olafchuszno&show_icons=true&theme=tokyonight) 
+
+<p align="center">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=olafchuszno&show_icons=true&theme=tokyonight" alt="OlafChuszno GitHub stats" />
+  <img height="195px" src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" alt="Fun GIF" />
+</p>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olafchuszno&layout=donut&theme=tokyonight) -->
  <!--  <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" /> -->
  <!-- ![LofiGif](https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
