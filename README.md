@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 <a href="www.linkedin.com/in/olaf-chuszno"> Let's Connect! 💬</a> </h1>
+<h1 align="center"> Hi there 👋 <a href="https://www.linkedin.com/in/olaf-chuszno"> Let's Connect! 💬</a> </h1>
 
 <h2 align="center">
  I'm a passionate Full-Stack Developer with two years of programming experience in Poland. I've finished a Full-Stack course at Mate Academy and do freelance work, designing both Front-end and Back-end applications.
