@@ -14,9 +14,8 @@
  </strong>
 </div>
 <br>
-<br>
 
-### **🔧 Tech Stack: **
+## **🔧 Tech Stack:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -37,14 +36,14 @@
 
 <br>
 
-### **💻 Projects **
+## **💻 Projects**
 <div><p align="center"><i>Project name is a link to repo, and the photo redirects you to a demo:)</i></p></div>
 
 | [MyBike](https://github.com/olafchuszno/layout_miami) | [ToDoApp](https://github.com/olafchuszno/react_todo-app-with-api) | [NiceGadgets](https://github.com/olafchuszno/react_phone-catalog) |
 | ----------- | ----------- | ----------- |
 | [![MyBike](./images/miami.jpg)](https://olafchuszno.github.io/layout_miami/) | [![ToDoApp](./images/todo.jpg)](https://olafchuszno.github.io/react_todo-app-with-api/) | [![NiceGadgets](./images/phone-catalog.jpg)](https://olafchuszno.github.io/react_phone-catalog/) |
 
-### <h2> **💻 Or would you rather play a game I designed? **</h2> [2048 Game repo](https://github.com/olafchuszno/js_2048_game/tree/develop)
+## <h2> **💻 Or would you rather play a game I designed?**</h2> [2048 Game repo](https://github.com/olafchuszno/js_2048_game/tree/develop)
 
 <table>
  <tr>
@@ -62,6 +61,11 @@
 ## **📜 My Stats**
 <br />
 
+<p align="center">
+ <a href="https://www.codewars.com/users/olafchuszno">
+  <img width="350px" src="https://www.codewars.com/users/olafchuszno/badges/small" alt="My codewars stats" />
+ </a>
+</p>
 
 <p align="center">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=olafchuszno&show_icons=true&theme=tokyonight" alt="OlafChuszno GitHub stats" />
