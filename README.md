@@ -9,7 +9,7 @@
 
 <div>
  <strong>
-  <p align="center">🚀 I’m open for collaboration and work opportunities! 🚀</p>
+  <p align="center">🚀 I’m open for collaboration 🚀</p>
   <p align="center">Let's create something amazing together! Feel free to reach out or connect with me on LinkedIn or drop me an email at <a href="mailto:chuszno.dev@gmail.com">chuszno.dev@gmail.com</a>.</p>
  </strong>
 </div>
@@ -18,7 +18,6 @@
 ## **🔧 Tech Stack:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
