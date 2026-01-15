@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 <a href="https://www.linkedin.com/in/olaf-chuszno"> Let's Connect! 💬</a> </h1>
 
 <h2 align="center">
- I'm a passionate Full-Stack Developer with two years of programming experience from Poland.
+ I'm a passionate Full-Stack Developer with three years of programming experience from Poland.
  <br>
 </h2>
 
